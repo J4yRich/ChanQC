@@ -2,7 +2,7 @@
 ! Description: Filter contains all ad networks and tracking frequently accessed.
 ! Last modified: 07 Feb 2023 13:50 UTC+7
 ! Version: 2302071350
-! Blocked: 8,248 rules
+! Blocked: 17,374 domains rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
